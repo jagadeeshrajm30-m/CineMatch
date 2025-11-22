@@ -110,4 +110,5 @@ Add dark mode
 **👨‍💻 Author**
 
 Jagadeesh Raj M
+
 AI & Data Science Enthusiast
